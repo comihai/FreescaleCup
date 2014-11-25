@@ -1,0 +1,66 @@
+C:\Users\andrew\Desktop\serial_com\freescaleCup\freescaleCup\bin\Debug\freescaleCup.exe.config
+C:\Users\andrew\Desktop\serial_com\freescaleCup\freescaleCup\bin\Debug\freescaleCup.exe
+C:\Users\andrew\Desktop\serial_com\freescaleCup\freescaleCup\bin\Debug\freescaleCup.pdb
+C:\Users\andrew\Desktop\serial_com\freescaleCup\freescaleCup\obj\Debug\freescaleCup.csprojResolveAssemblyReference.cache
+C:\Users\andrew\Desktop\serial_com\freescaleCup\freescaleCup\obj\Debug\freescaleCup.frontPage.resources
+C:\Users\andrew\Desktop\serial_com\freescaleCup\freescaleCup\obj\Debug\freescaleCup.Properties.Resources.resources
+C:\Users\andrew\Desktop\serial_com\freescaleCup\freescaleCup\obj\Debug\freescaleCup.csproj.GenerateResource.Cache
+C:\Users\andrew\Desktop\serial_com\freescaleCup\freescaleCup\obj\Debug\freescaleCup.exe
+C:\Users\andrew\Desktop\serial_com\freescaleCup\freescaleCup\obj\Debug\freescaleCup.pdb
+C:\Users\Andrej.AND\Desktop\free-s\mnt\freescaleCup\freescaleCup\bin\Debug\freescaleCup.exe.config
+C:\Users\Andrej.AND\Desktop\free-s\mnt\freescaleCup\freescaleCup\obj\Debug\freescaleCup.exe
+C:\Users\Andrej.AND\Desktop\free-s\mnt\freescaleCup\freescaleCup\obj\Debug\freescaleCup.pdb
+C:\Users\Andrej.AND\Desktop\free-s\mnt\freescaleCup\freescaleCup\bin\Debug\freescaleCup.exe
+C:\Users\Andrej.AND\Desktop\free-s\mnt\freescaleCup\freescaleCup\bin\Debug\freescaleCup.pdb
+C:\Users\Andrej.AND\Desktop\free-s\mnt\freescaleCup\freescaleCup\obj\Debug\freescaleCup.csprojResolveAssemblyReference.cache
+C:\Users\Andrej.AND\Desktop\free-s\mnt\freescaleCup\freescaleCup\obj\Debug\freescaleCup.frontPage.resources
+C:\Users\Andrej.AND\Desktop\free-s\mnt\freescaleCup\freescaleCup\obj\Debug\freescaleCup.Properties.Resources.resources
+C:\Users\Andrej.AND\Desktop\free-s\mnt\freescaleCup\freescaleCup\obj\Debug\freescaleCup.csproj.GenerateResource.Cache
+D:\freescale race\iulian\freescaleCup\freescaleCup\bin\Debug\freescaleCup.exe.config
+D:\freescale race\iulian\freescaleCup\freescaleCup\obj\Debug\freescaleCup.exe
+D:\freescale race\iulian\freescaleCup\freescaleCup\obj\Debug\freescaleCup.pdb
+D:\freescale race\iulian\freescaleCup\freescaleCup\bin\Debug\freescaleCup.exe
+D:\freescale race\iulian\freescaleCup\freescaleCup\bin\Debug\freescaleCup.pdb
+D:\freescale race\iulian\freescaleCup\freescaleCup\obj\Debug\freescaleCup.csprojResolveAssemblyReference.cache
+D:\freescale race\iulian\freescaleCup\freescaleCup\obj\Debug\freescaleCup.frontPage.resources
+D:\freescale race\iulian\freescaleCup\freescaleCup\obj\Debug\freescaleCup.Properties.Resources.resources
+D:\freescale race\iulian\freescaleCup\freescaleCup\obj\Debug\freescaleCup.csproj.GenerateResource.Cache
+C:\Users\Andrew\Desktop\freescaleCupLastVersion\freescaleCup\bin\Debug\freescaleCup.exe.config
+C:\Users\Andrew\Desktop\freescaleCupLastVersion\freescaleCup\bin\Debug\freescaleCup.exe
+C:\Users\Andrew\Desktop\freescaleCupLastVersion\freescaleCup\bin\Debug\freescaleCup.pdb
+C:\Users\Andrew\Desktop\freescaleCupLastVersion\freescaleCup\obj\Debug\freescaleCup.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\freescaleCupLastVersion\freescaleCup\obj\Debug\freescaleCup.frontPage.resources
+C:\Users\Andrew\Desktop\freescaleCupLastVersion\freescaleCup\obj\Debug\freescaleCup.Properties.Resources.resources
+C:\Users\Andrew\Desktop\freescaleCupLastVersion\freescaleCup\obj\Debug\freescaleCup.csproj.GenerateResource.Cache
+C:\Users\Andrew\Desktop\freescaleCupLastVersion\freescaleCup\obj\Debug\freescaleCup.exe
+C:\Users\Andrew\Desktop\freescaleCupLastVersion\freescaleCup\obj\Debug\freescaleCup.pdb
+C:\Users\Andrej.AND\Desktop\free-s\freescaleCupLastVersion c#\freescaleCup\bin\Debug\freescaleCup.exe.config
+C:\Users\Andrej.AND\Desktop\free-s\freescaleCupLastVersion c#\freescaleCup\bin\Debug\freescaleCup.exe
+C:\Users\Andrej.AND\Desktop\free-s\freescaleCupLastVersion c#\freescaleCup\bin\Debug\freescaleCup.pdb
+C:\Users\Andrej.AND\Desktop\free-s\freescaleCupLastVersion c#\freescaleCup\obj\Debug\freescaleCup.frontPage.resources
+C:\Users\Andrej.AND\Desktop\free-s\freescaleCupLastVersion c#\freescaleCup\obj\Debug\freescaleCup.Properties.Resources.resources
+C:\Users\Andrej.AND\Desktop\free-s\freescaleCupLastVersion c#\freescaleCup\obj\Debug\freescaleCup.csproj.GenerateResource.Cache
+C:\Users\Andrej.AND\Desktop\free-s\freescaleCupLastVersion c#\freescaleCup\obj\Debug\freescaleCup.exe
+C:\Users\Andrej.AND\Desktop\free-s\freescaleCupLastVersion c#\freescaleCup\obj\Debug\freescaleCup.pdb
+C:\Users\Andrej.AND\Desktop\free-s\freescaleCupLastVersion c#\freescaleCup\obj\Debug\freescaleCup.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\freescaleCupLastVersion c#\freescaleCup\bin\Debug\freescaleCup.exe
+C:\Users\Andrew\Desktop\freescaleCupLastVersion c#\freescaleCup\bin\Debug\freescaleCup.exe.config
+C:\Users\Andrew\Desktop\freescaleCupLastVersion c#\freescaleCup\bin\Debug\freescaleCup.pdb
+C:\Users\Andrew\Desktop\freescaleCupLastVersion c#\freescaleCup\obj\Debug\freescaleCup.frontPage.resources
+C:\Users\Andrew\Desktop\freescaleCupLastVersion c#\freescaleCup\obj\Debug\freescaleCup.Properties.Resources.resources
+C:\Users\Andrew\Desktop\freescaleCupLastVersion c#\freescaleCup\obj\Debug\freescaleCup.csproj.GenerateResource.Cache
+C:\Users\Andrew\Desktop\freescaleCupLastVersion c#\freescaleCup\obj\Debug\freescaleCup.exe
+C:\Users\Andrew\Desktop\freescaleCupLastVersion c#\freescaleCup\obj\Debug\freescaleCup.pdb
+C:\Users\Andrew\Desktop\freescaleCupLastVersion c#\freescaleCup\obj\Debug\freescaleCup.csprojResolveAssemblyReference.cache
+D:\WORK\free-s\freescaleCupLastVersion c#\freescaleCup\bin\Debug\freescaleCup.exe.config
+D:\WORK\free-s\freescaleCupLastVersion c#\freescaleCup\obj\Debug\freescaleCup.exe
+D:\WORK\free-s\freescaleCupLastVersion c#\freescaleCup\obj\Debug\freescaleCup.pdb
+C:\Users\mihai\Desktop\cw_last\freescaleCupLastVersion c#\freescaleCup\bin\Debug\freescaleCup.exe.config
+C:\Users\mihai\Desktop\cw_last\freescaleCupLastVersion c#\freescaleCup\obj\Debug\freescaleCup.exe
+C:\Users\mihai\Desktop\cw_last\freescaleCupLastVersion c#\freescaleCup\obj\Debug\freescaleCup.pdb
+C:\Users\mihai\Desktop\cw_last\freescaleCupLastVersion c#\freescaleCup\bin\Debug\freescaleCup.exe
+C:\Users\mihai\Desktop\cw_last\freescaleCupLastVersion c#\freescaleCup\bin\Debug\freescaleCup.pdb
+C:\Users\mihai\Desktop\cw_last\freescaleCupLastVersion c#\freescaleCup\obj\Debug\freescaleCup.csprojResolveAssemblyReference.cache
+C:\Users\mihai\Desktop\cw_last\freescaleCupLastVersion c#\freescaleCup\obj\Debug\freescaleCup.frontPage.resources
+C:\Users\mihai\Desktop\cw_last\freescaleCupLastVersion c#\freescaleCup\obj\Debug\freescaleCup.Properties.Resources.resources
+C:\Users\mihai\Desktop\cw_last\freescaleCupLastVersion c#\freescaleCup\obj\Debug\freescaleCup.csproj.GenerateResource.Cache
