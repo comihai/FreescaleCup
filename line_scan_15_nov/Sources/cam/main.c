@@ -64,7 +64,7 @@ void main(void) {
 		if(free)
 		{
 			got_frame();
-			//send_frame();
+			send_frame();
 			switch(velocity_state)
 			{
 			case BRAKE_STAGE0:

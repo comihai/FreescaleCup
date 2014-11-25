@@ -1,6 +1,6 @@
 <Analysispoints>
 	<Name>AnalysispointsManager</Name>
-	<ProjectPath>C:/Users/Andrew/Desktop/line_sensor/SaAnalysispointsManager.apconfig</ProjectPath>
+	<ProjectPath>C:/Users/mihai/workspace_cw/line_scan_15_nov/SaAnalysispointsManager.apconfig</ProjectPath>
 	<MaxNumberOfCores>1</MaxNumberOfCores>
 	<Comments>Analysispoints Manager</Comments>
 	<IgnoreAll>false</IgnoreAll>
