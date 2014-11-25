@@ -55,12 +55,3 @@ C:\Users\Andrew\Desktop\freescaleCupLastVersion c#\freescaleCup\obj\Debug\freesc
 D:\WORK\free-s\freescaleCupLastVersion c#\freescaleCup\bin\Debug\freescaleCup.exe.config
 D:\WORK\free-s\freescaleCupLastVersion c#\freescaleCup\obj\Debug\freescaleCup.exe
 D:\WORK\free-s\freescaleCupLastVersion c#\freescaleCup\obj\Debug\freescaleCup.pdb
-C:\Users\mihai\Desktop\cw_last\freescaleCupLastVersion c#\freescaleCup\bin\Debug\freescaleCup.exe.config
-C:\Users\mihai\Desktop\cw_last\freescaleCupLastVersion c#\freescaleCup\obj\Debug\freescaleCup.exe
-C:\Users\mihai\Desktop\cw_last\freescaleCupLastVersion c#\freescaleCup\obj\Debug\freescaleCup.pdb
-C:\Users\mihai\Desktop\cw_last\freescaleCupLastVersion c#\freescaleCup\bin\Debug\freescaleCup.exe
-C:\Users\mihai\Desktop\cw_last\freescaleCupLastVersion c#\freescaleCup\bin\Debug\freescaleCup.pdb
-C:\Users\mihai\Desktop\cw_last\freescaleCupLastVersion c#\freescaleCup\obj\Debug\freescaleCup.csprojResolveAssemblyReference.cache
-C:\Users\mihai\Desktop\cw_last\freescaleCupLastVersion c#\freescaleCup\obj\Debug\freescaleCup.frontPage.resources
-C:\Users\mihai\Desktop\cw_last\freescaleCupLastVersion c#\freescaleCup\obj\Debug\freescaleCup.Properties.Resources.resources
-C:\Users\mihai\Desktop\cw_last\freescaleCupLastVersion c#\freescaleCup\obj\Debug\freescaleCup.csproj.GenerateResource.Cache
